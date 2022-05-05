@@ -73,8 +73,8 @@ ZSH_THEME="robbyrussell"
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
-source $ZSH/custom/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
-source $ZSH/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
+source /home/tobecci/.oh-my-zsh-custom/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source /home/tobecci/.oh-my-zsh-custom/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
 
 # User configuration
 
